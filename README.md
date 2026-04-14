@@ -1,4 +1,4 @@
-# BuildINT Energy Intelligence Pipeline
+# ENERGY CONSUMPTION ANALYSIS & FORECASTING SYSTEM
 **A complete Python → Power BI → PowerPoint workflow for energy consumption analysis and forecasting**
 
 ---
