@@ -150,6 +150,16 @@ Nothing else needs changing.
 | 5 | `05_charts.py` | `master.pkl`, `analysis_results.pkl`, `forecast.pkl` | 8 PNG charts |
 | 6 | `06_export_powerbi.py` | `master.pkl`, `forecast.pkl` | `BuildINT_PowerBI_Data.xlsx` |
 
+
+# After Python — Next Steps
+
+Open Power BI Desktop (free: powerbi.microsoft.com/desktop)
+Home → Get Data → Excel Workbook
+Browse to data/outputs/BuildINT_PowerBI_Data.xlsx
+Select all 7 sheets → Load
+Follow the PowerBI_Guide sheet inside the Excel for exact visual-by-visual instructions
+Export: File → Export → Export to PDF
+
 ---
 
 ## Key Findings from This Dataset
