@@ -152,32 +152,6 @@ Nothing else needs changing.
 
 ---
 
-## After Python — Next Steps
-
-### Step 1: Power BI
-1. Open **Power BI Desktop** (free: powerbi.microsoft.com/desktop)
-2. `Home → Get Data → Excel Workbook`
-3. Browse to `data/outputs/BuildINT_PowerBI_Data.xlsx`
-4. Select **all 7 sheets** → Load
-5. Follow the `PowerBI_Guide` sheet inside the Excel for exact visual-by-visual instructions
-6. Export: `File → Export → Export to PDF`
-
-### Step 2: PowerPoint
-1. Open the 8 PNG charts from `reports/charts/`
-2. Paste into slides using this structure:
-   - Slide 1: Cover
-   - Slide 2: Executive KPI Summary (numbers from Summary_KPIs sheet)
-   - Slide 3: `01_daily_consumption_stacked.png`
-   - Slide 4: `03_device_share_donut.png` + `02_trend_with_regression.png`
-   - Slide 5: `04_savings_vs_baseline.png`
-   - Slide 6: `05_savings_rate.png`
-   - Slide 7: `06_carbon_impact.png`
-   - Slide 8: `07_lights_comparison.png`
-   - Slide 9: `08_forecast.png`
-   - Slide 10: Recommendations (write manually based on analysis findings)
-
----
-
 ## Key Findings from This Dataset
 
 - **Total consumption**: 639.2 kWh over 7 days (Dec 08–14, 2025)
