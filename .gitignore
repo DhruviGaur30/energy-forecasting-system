@@ -1,38 +1,19 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
+# Virtual environments
+.venv/
 venv/
-.env/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Jupyter / temp
-.ipynb_checkpoints/
-
-# Logs
-*.log
-
-# VS Code
-.vscode/
-
-# Data files (IMPORTANT)
+# Data
 data/raw/
 data/processed/
 
-# Keep outputs ONLY if needed
-# (we will allow final outputs manually)
+# Python cache
+__pycache__/
+*.pyc
 
 # Large files
 *.pkl
 
-# Power BI temp files
-*.pbix.lock
-
-# Secrets
-.env
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
